@@ -1,0 +1,12 @@
+C:\Users\Wills Racing Machine\Desktop\Repos\Car Setup Installer for iRacing\Car Setup Installer for iRacing\bin\Debug\Car Setup Installer for iRacing.exe.config
+C:\Users\Wills Racing Machine\Desktop\Repos\Car Setup Installer for iRacing\Car Setup Installer for iRacing\bin\Debug\Car Setup Installer for iRacing.exe
+C:\Users\Wills Racing Machine\Desktop\Repos\Car Setup Installer for iRacing\Car Setup Installer for iRacing\bin\Debug\Car Setup Installer for iRacing.pdb
+C:\Users\Wills Racing Machine\Desktop\Repos\Car Setup Installer for iRacing\Car Setup Installer for iRacing\bin\Debug\Car Setup Installer for iRacing.xml
+C:\Users\Wills Racing Machine\Desktop\Repos\Car Setup Installer for iRacing\Car Setup Installer for iRacing\obj\Debug\Car Setup Installer for iRacing.vbproj.AssemblyReference.cache
+C:\Users\Wills Racing Machine\Desktop\Repos\Car Setup Installer for iRacing\Car Setup Installer for iRacing\obj\Debug\Car_Setup_Installer_for_iRacing.Form1.resources
+C:\Users\Wills Racing Machine\Desktop\Repos\Car Setup Installer for iRacing\Car Setup Installer for iRacing\obj\Debug\Car_Setup_Installer_for_iRacing.Resources.resources
+C:\Users\Wills Racing Machine\Desktop\Repos\Car Setup Installer for iRacing\Car Setup Installer for iRacing\obj\Debug\Car Setup Installer for iRacing.vbproj.GenerateResource.cache
+C:\Users\Wills Racing Machine\Desktop\Repos\Car Setup Installer for iRacing\Car Setup Installer for iRacing\obj\Debug\Car Setup Installer for iRacing.vbproj.CoreCompileInputs.cache
+C:\Users\Wills Racing Machine\Desktop\Repos\Car Setup Installer for iRacing\Car Setup Installer for iRacing\obj\Debug\Car Setup Installer for iRacing.exe
+C:\Users\Wills Racing Machine\Desktop\Repos\Car Setup Installer for iRacing\Car Setup Installer for iRacing\obj\Debug\Car Setup Installer for iRacing.xml
+C:\Users\Wills Racing Machine\Desktop\Repos\Car Setup Installer for iRacing\Car Setup Installer for iRacing\obj\Debug\Car Setup Installer for iRacing.pdb
