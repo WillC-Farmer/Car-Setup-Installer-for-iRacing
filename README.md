@@ -1,4 +1,5 @@
 # Car Setup Installer for iRacing
+https://github.com/WillC-Farmer/Car-Setup-Installer-for-iRacing/releases
 A simple program that acts as a GUI for installing setup files in iRacing. 
 For some users, navigating and organizing your setup files in the file explorer can be confusing and difficult, especially when you need to first extract a zip file, then move the .sto's to the correct location. 
 This installer was created to make it easy to install your iRacing setups in the correct location. 
